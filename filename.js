@@ -1,2 +1,2 @@
-console.log(__filename);
-console.log(__dirname);
+console.log(__filename); // current file path
+console.log(__dirname); // current directory path
